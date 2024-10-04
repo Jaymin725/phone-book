@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "ee1a",
+      "firstName": "Jaymin",
+      "lastName": "Bhavsar",
+      "email": "jayminbhavsar07@gmail.com",
+      "number": "+919054153133"
+    },
+    {
+      "id": "89b4",
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "email": "bruce@wayneenterprise.com",
+      "number": "+910123456789"
+    },
+    {
+      "id": "7d12",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tony3000@starktech.com",
+      "number": "+919876543210"
+    },
+    {
+      "firstName": "abc",
+      "lastName": "def",
+      "email": "def@abc",
+      "number": "123123",
+      "id": "8fdf"
+    }
+  ]
+}
